@@ -9,7 +9,7 @@ function Header() {
                 <h1>DSMeta</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+                    <a href="https://github.com/lucasbezq"> Lucas Ezequiel</a>
                 </p>
             </div>
         </header>
@@ -18,3 +18,4 @@ function Header() {
 }
 
 export default Header
+
