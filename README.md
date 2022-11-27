@@ -1,10 +1,10 @@
 # :coin: DSMeta 
-<p>O sistema consiste em um registro de vendedores e suas respectivas vendas, proporcionando filtar os registros por data e também realizar uma notificação por SMS para o vendedor.
+<p>O sistema consiste em um registro de vendedores e suas respectivas vendas, proporcionando filtrar os registros por data e também realizar uma notificação por SMS para o vendedor.
 </p>
 
 Link do site: <a>https://dsmetabrasil.netlify.app/
 
-<p>Obs.: Por conta de uma politica do <a href="https://www.tabnews.com.br/filipedeschamps/heroku-nao-ira-mais-oferecer-o-plano-gratuito-quais-alternativas-existem">Heroku</a> a aplicação ficara disponível apenas até o dia 28/11/2022</p>
+<p>Obs.: Por conta de uma política do <a href="https://www.tabnews.com.br/filipedeschamps/heroku-nao-ira-mais-oferecer-o-plano-gratuito-quais-alternativas-existem">Heroku</a>, a aplicação ficara disponível apenas até o dia 28/11/2022.</p>
 
 ## :gear: Funcionalidades
 - Realização de notificação para os vendedores através do SMS
