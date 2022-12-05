@@ -7,8 +7,8 @@ Link do site: <a>https://dsmetabrasil.netlify.app/
 <p>Obs.: Por conta de uma política do <a href="https://www.tabnews.com.br/filipedeschamps/heroku-nao-ira-mais-oferecer-o-plano-gratuito-quais-alternativas-existem">Heroku</a>, a aplicação ficara disponível apenas até o dia 28/11/2022.</p>
 
 ## :gear: Funcionalidades
-- Realização de notificação para os vendedores através do SMS
-- Consulta das vendas por periodo (data)
+- Realização de notificação para os vendedores através do SMS.
+- Consulta das vendas por periodo (data).
 
 ## :hammer_and_wrench: Ferramenta e Tecnologias utilizadas
 - <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">Java</a>
